@@ -6,7 +6,7 @@
   <remote  name="x86"
            fetch="git://git.code.sf.net/p/android-x86/" />
   <remote  name="helium"
-           fetch="." />
+           fetch="./" />
   <default revision="refs/tags/android-5.1.1_r24"
            remote="aosp"
            sync-c="true"
