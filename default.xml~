@@ -17,7 +17,6 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bootable/newinstaller" name="nilsutu87fhk" remote="helium" revision="master" />
-  <project path="frameworks/base" name="futl87bflm" groups="pdk-cw-fs" remote="helium" revision="master" />
   <project path="frameworks/native" name="fnuisl98jk" groups="pdk" remote="helium" revision="master" />
 
 </manifest>
