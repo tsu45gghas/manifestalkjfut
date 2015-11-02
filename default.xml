@@ -15,5 +15,5 @@ test
   <!-- from helium port repositories -->
   <project path="bootable/newinstaller" name="bd8769kfhg" remote="helium" revision="master" />
   <project path="frameworks/native" name="fnuisl98jk" remote="helium" revision="master" />
-
+asdfd
 </manifest>
